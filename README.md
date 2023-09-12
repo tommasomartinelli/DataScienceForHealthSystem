@@ -24,3 +24,6 @@ You can use this repository to:
 
 ## Dependencies
 - This analysis relies on several R packages, including dplyr, ggplot2, kableExtra, vioplot, sf, and gridExtra. Make sure to install these packages before running the code.
+
+## Author
+Tommaso Martinelli
