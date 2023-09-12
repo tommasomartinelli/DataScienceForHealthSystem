@@ -1,4 +1,5 @@
 # Exploratory-analysis-of-new-HIV-infections-on-WHO-dataset
+Data Science for Health Systems examination project.
 
 ## Overview
 This repository contains code and data for analyzing HIV infection data. The analysis includes exploring the data, visualizing trends, and performing statistical tests on different variables.
