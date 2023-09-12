@@ -14,7 +14,7 @@ The analysis code is written in R and organized into several sections:
 - Statistical tests: Conducting non-parametric tests on sex and geographical area variables, including Mann-Whitney U tests, Kruskal-Wallis tests, and post-hoc analyses.
 
 ## Document
-There is a PDF document in the "doc" folder that provides a detailed explanation of the analysis and its findings.
+- There is a PDF document in the "doc" folder that provides a detailed explanation of the analysis and its findings.
 
 ## Usage
 You can use this repository to:
@@ -23,4 +23,4 @@ You can use this repository to:
 - Learn about data preprocessing, exploratory analysis, and statistical testing in R.
 
 ## Dependencies
-This analysis relies on several R packages, including dplyr, ggplot2, kableExtra, vioplot, sf, and gridExtra. Make sure to install these packages before running the code.
+- This analysis relies on several R packages, including dplyr, ggplot2, kableExtra, vioplot, sf, and gridExtra. Make sure to install these packages before running the code.
