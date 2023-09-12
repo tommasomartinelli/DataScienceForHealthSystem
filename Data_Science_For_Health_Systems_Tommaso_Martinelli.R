@@ -9,7 +9,7 @@ library(gridExtra)
 
 ###Dataset uploading
 
-hiv_data <- read.csv("C:/Users/Tommaso/Desktop/uni/data science/ProgettoData/HIV1.csv", header = TRUE, sep = ",")
+hiv_data <- read.csv("/path/to/HIV1.csv", header = TRUE, sep = ",")
 head(hiv_data)
 names(hiv_data)
 summary(hiv_data)
